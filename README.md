@@ -13,7 +13,10 @@ This project demonstrates the design and implementation of a multi-network topol
 - Verified connectivity using ping (ICMP)
 
 ## 🌐 Topology
-(Add screenshot here later)
+![Network Topology](topology.PNG)
+
+## 📡 Ping Test
+![Ping Result](ping.PNG)
 
 ## 📂 Files
 - Varun_network_design.pkt
